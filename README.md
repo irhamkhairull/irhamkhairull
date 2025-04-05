@@ -1,4 +1,5 @@
 <!--irhamkhairull/irhamkhairull is a special repository because this file appears on GitHub profile-->
+
 # About Me
 
 Hi, I'm **Irham Khairul**, a passionate **Mechanical Engineer** with a strong focus on **CAD Design** and **Problem-Solving**. I have a broad skill set ranging from **Mechanical Design** to **Graphic Design**, and I love combining engineering with creative visualizations.
@@ -10,18 +11,18 @@ Hi, I'm **Irham Khairul**, a passionate **Mechanical Engineer** with a strong fo
   - Engineering Visualization
   - Mechanical Design and Product Development
   
-- **Programming & Computational Analysis**:
+- **Programming and Computational Analysis**:
   - C++, Java, Python, and MATLAB
   - Computational Modeling, Problem-Solving
   
-- **UI/UX Design & Frontend Development**:
+- **UI/UX Design and Frontend Development**:
   - Figma for Prototyping
   - Web Design (HTML, CSS, JavaScript)
   - User-Centered Design, Wireframing
   
 - **Graphic Design**:
   - Adobe Illustrator, Photoshop
-  - Branding & Visual Design for Engineering Applications
+  - Branding and Visual Design for Engineering Applications
 
 ## 🍁 Achievements and Recognition
 
@@ -37,4 +38,4 @@ Hi, I'm **Irham Khairul**, a passionate **Mechanical Engineer** with a strong fo
 - **Email**: [m.irhamirfan@gmail.com](mailto:m.irhamirfan@gmail.com)
 - **LinkedIn**: [linkedin.com/in/irhamkhairull](https://linkedin.com/in/irhamkhairull)
 
-Feel free to connect with me or explore my projects!
+I'm eager to expand my expertise in mechanical engineering, product development, and leadership. Open to any collaborations and networking opportunities to develop impactful engineering solutions. Let's build something great together!
