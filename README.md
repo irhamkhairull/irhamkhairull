@@ -35,7 +35,4 @@ Hi, I'm **Irham Khairul**, a passionate **Mechanical Engineer** with a strong fo
 
 ## 🍁 Connect with Me
 
-- **Email**: [m.irhamirfan@gmail.com](mailto:m.irhamirfan@gmail.com)
-- **LinkedIn**: [linkedin.com/in/irhamkhairull](https://linkedin.com/in/irhamkhairull)
-
 I'm eager to expand my expertise in mechanical engineering, product development, and leadership. Open to any collaborations and networking opportunities to develop impactful engineering solutions. Let's build something great together!
