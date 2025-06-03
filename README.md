@@ -35,4 +35,4 @@ Hi, I'm **Irham Khairul**, a passionate **Mechanical Engineer** with a strong fo
 
 ## 🍁 Connect with Me
 
-I'm eager to expand my expertise in mechanical engineering, product development, and leadership. Open to any collaborations and networking opportunities to develop impactful engineering solutions. Let's build something great together!
+I’m keen to expand my expertise in mechanical engineering, product innovation, leadership, and entrepreneurial ventures. Open to collaborations and partnerships that focus on building impactful engineering and business solutions.
